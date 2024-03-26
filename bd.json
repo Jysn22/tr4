@@ -1,0 +1,35 @@
+{
+    "Producto":[
+    {
+        "Id": 1,
+        "Descripcion": "Mouse",
+        "Precio": "50.00",
+        "Imagen": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/accessories/wireless-mouse-gt/specs-img.jpg"
+    },
+    {
+        "Id": 1,
+        "Descripcion": "Teclado",
+        "Precio": "150.00",
+        "Imagen": "https://hiraoka.com.pe/media/mageplaza/blog/post/c/o/como_elegir_un_teclado.jpg"
+    },
+    {
+        "Id": 1,
+        "Descripcion": "Monitor",
+        "Precio": "300.00",
+        "Imagen": "https://i.blogs.es/6c994c/2010_09_30_monitores01/650_1200.jpg"
+    },
+    {
+        "Id": 1,
+        "Descripcion": "Audifonos",
+        "Precio": "40.00",
+        "Imagen": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/l/o/logitech_g_pro_x_2.jpg"
+    },
+    {
+        "Id": 1,
+        "Descripcion": "Tarjeta de video",
+        "Precio": "800.00",
+        "Imagen": "https://hiraoka.com.pe/media/wysiwyg/c_mo_funciona_una_tarjeta_gr_fica.jpg"
+    }
+]
+
+}
